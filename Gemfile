@@ -31,6 +31,7 @@ gem 'errbit_plugin'
 gem 'errbit_github_plugin'
 
 gem 'dotenv-rails'
+gem 'figaro'
 
 # Notification services
 # ---------------------------------------
